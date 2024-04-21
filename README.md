@@ -1,18 +1,15 @@
+# Java Threads
+This repository contains examples and practical implementations of threading in Java. It covers various concepts related to multi-threading, including thread creation, synchronization, thread safety, and common threading problems like deadlocks and race conditions.
+
+## Introduction
+Threads are a fundamental concept in Java, enabling concurrent execution of multiple tasks within a single process. This repository aims to provide a comprehensive understanding of threads by exploring different scenarios and use cases.
+
 ## Getting Started
+To get started with this project, you'll need to have Java Development Kit (JDK) installed on your machine. You can clone this repository using the following command:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+`git clone https://github.com/SaifNasir196/Java-threads.git`
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Contributing
+Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
